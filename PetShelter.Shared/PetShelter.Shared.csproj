@@ -10,9 +10,4 @@
     <PackageReference Include="Scrutor" Version="4.2.2" />
   </ItemGroup>
 
-  <ItemGroup>
-    <Folder Include="Dtos\" />
-    <Folder Include="Security\" />
-  </ItemGroup>
-
 </Project>
