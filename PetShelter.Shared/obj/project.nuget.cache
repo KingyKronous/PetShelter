@@ -1,0 +1,16 @@
+{
+  "version": 2,
+  "dgSpecHash": "tOMlgcHzY/4GYV0+AeJw6xSZCy0wwcwHIbqmneAPKeRQt2RTr8vfPGH6mQC8wf+UUlQoeaLSdGhKSbB0Ywnnvg==",
+  "success": true,
+  "projectFilePath": "D:\\alexander_d11g\\folderr\\PetShelter\\PetShelter.Shared\\PetShelter.Shared.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\dzi_22\\.nuget\\packages\\microsoft.aspnetcore.cryptography.internal\\8.0.3\\microsoft.aspnetcore.cryptography.internal.8.0.3.nupkg.sha512",
+    "C:\\Users\\dzi_22\\.nuget\\packages\\microsoft.aspnetcore.cryptography.keyderivation\\8.0.3\\microsoft.aspnetcore.cryptography.keyderivation.8.0.3.nupkg.sha512",
+    "C:\\Users\\dzi_22\\.nuget\\packages\\microsoft.extensions.dependencyinjection.abstractions\\8.0.1\\microsoft.extensions.dependencyinjection.abstractions.8.0.1.nupkg.sha512",
+    "C:\\Users\\dzi_22\\.nuget\\packages\\microsoft.extensions.dependencymodel\\3.1.25\\microsoft.extensions.dependencymodel.3.1.25.nupkg.sha512",
+    "C:\\Users\\dzi_22\\.nuget\\packages\\scrutor\\4.2.2\\scrutor.4.2.2.nupkg.sha512",
+    "C:\\Users\\dzi_22\\.nuget\\packages\\system.text.encodings.web\\4.7.2\\system.text.encodings.web.4.7.2.nupkg.sha512",
+    "C:\\Users\\dzi_22\\.nuget\\packages\\system.text.json\\4.7.2\\system.text.json.4.7.2.nupkg.sha512"
+  ],
+  "logs": []
+}
