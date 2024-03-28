@@ -1,13 +1,15 @@
 ﻿
 Microsoft Visual Studio Solution File, Format Version 12.00
-# Visual Studio Version 16
-VisualStudioVersion = 16.0.34601.136
+# Visual Studio Version 17
+VisualStudioVersion = 17.9.34723.18
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PetShelter", "PetShelter\PetShelter.csproj", "{1146E3F4-D3AC-41E1-AF53-317F259BA93E}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "PetShelter", "PetShelter\PetShelter.csproj", "{1146E3F4-D3AC-41E1-AF53-317F259BA93E}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PetShelter.Shared", "PetShelter.Shared\PetShelter.Shared.csproj", "{F4E5B1A5-90A1-4189-BAF5-81C18A33ECCF}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "PetShelter.Shared", "PetShelter.Shared\PetShelter.Shared.csproj", "{F4E5B1A5-90A1-4189-BAF5-81C18A33ECCF}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PetShelter.Data", "PetShelter.Data\PetShelter.Data.csproj", "{5A0230AF-761A-4725-8809-4455038B55D0}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "PetShelter.Data", "PetShelter.Data\PetShelter.Data.csproj", "{5A0230AF-761A-4725-8809-4455038B55D0}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PetShelter.Services", "PetShelter.Services\PetShelter.Services.csproj", "{3D5D32C3-3332-4DEA-B5C6-4923927D8DEA}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -27,6 +29,10 @@ Global
 		{5A0230AF-761A-4725-8809-4455038B55D0}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{5A0230AF-761A-4725-8809-4455038B55D0}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{5A0230AF-761A-4725-8809-4455038B55D0}.Release|Any CPU.Build.0 = Release|Any CPU
+		{3D5D32C3-3332-4DEA-B5C6-4923927D8DEA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3D5D32C3-3332-4DEA-B5C6-4923927D8DEA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3D5D32C3-3332-4DEA-B5C6-4923927D8DEA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3D5D32C3-3332-4DEA-B5C6-4923927D8DEA}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

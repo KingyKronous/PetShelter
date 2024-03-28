@@ -1,0 +1,12 @@
+D:\alexd_11g\PetShelter-main\PetShelter.Shared\bin\Debug\net8.0\PetShelter.Shared.deps.json
+D:\alexd_11g\PetShelter-main\PetShelter.Shared\bin\Debug\net8.0\PetShelter.Shared.dll
+D:\alexd_11g\PetShelter-main\PetShelter.Shared\bin\Debug\net8.0\PetShelter.Shared.pdb
+D:\alexd_11g\PetShelter-main\PetShelter.Shared\obj\Debug\net8.0\PetShelter.Shared.csproj.AssemblyReference.cache
+D:\alexd_11g\PetShelter-main\PetShelter.Shared\obj\Debug\net8.0\PetShelter.Shared.GeneratedMSBuildEditorConfig.editorconfig
+D:\alexd_11g\PetShelter-main\PetShelter.Shared\obj\Debug\net8.0\PetShelter.Shared.AssemblyInfoInputs.cache
+D:\alexd_11g\PetShelter-main\PetShelter.Shared\obj\Debug\net8.0\PetShelter.Shared.AssemblyInfo.cs
+D:\alexd_11g\PetShelter-main\PetShelter.Shared\obj\Debug\net8.0\PetShelter.Shared.csproj.CoreCompileInputs.cache
+D:\alexd_11g\PetShelter-main\PetShelter.Shared\obj\Debug\net8.0\PetShelter.Shared.dll
+D:\alexd_11g\PetShelter-main\PetShelter.Shared\obj\Debug\net8.0\refint\PetShelter.Shared.dll
+D:\alexd_11g\PetShelter-main\PetShelter.Shared\obj\Debug\net8.0\PetShelter.Shared.pdb
+D:\alexd_11g\PetShelter-main\PetShelter.Shared\obj\Debug\net8.0\ref\PetShelter.Shared.dll
