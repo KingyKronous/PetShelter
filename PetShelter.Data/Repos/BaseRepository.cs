@@ -40,7 +40,7 @@ namespace PetShelter.Data.Repos
         {
             return mapper.Map<IEnumerable<TModel>>(entities);
         }
-        public async Task<IEnumerable<TModel>> GetAllSync()
+        public async Task<IEnumerable<TModel>> GetAllAsync()
         {
             return this.MapToEnumerableOfModel(await _dbSet.ToListAsync());
         }
