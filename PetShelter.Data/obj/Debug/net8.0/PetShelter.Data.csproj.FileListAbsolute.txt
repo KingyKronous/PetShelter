@@ -1,0 +1,5 @@
+D:\alexd_11g\PetShelter-main\PetShelter.Data\obj\Debug\net8.0\PetShelter.Data.csproj.AssemblyReference.cache
+D:\alexd_11g\PetShelter-main\PetShelter.Data\obj\Debug\net8.0\PetShelter.Data.GeneratedMSBuildEditorConfig.editorconfig
+D:\alexd_11g\PetShelter-main\PetShelter.Data\obj\Debug\net8.0\PetShelter.Data.AssemblyInfoInputs.cache
+D:\alexd_11g\PetShelter-main\PetShelter.Data\obj\Debug\net8.0\PetShelter.Data.AssemblyInfo.cs
+D:\alexd_11g\PetShelter-main\PetShelter.Data\obj\Debug\net8.0\PetShelter.Data.csproj.CoreCompileInputs.cache

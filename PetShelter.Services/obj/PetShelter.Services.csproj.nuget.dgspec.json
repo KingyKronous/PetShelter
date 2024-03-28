@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "D:\\alexd_11g\\PetShelter-main\\PetShelter.Data\\PetShelter.Data.csproj": {}
+    "D:\\alexd_11g\\PetShelter-main\\PetShelter.Services\\PetShelter.Services.csproj": {}
   },
   "projects": {
-    "D:\\alexd_11g\\PetShelter-main\\PetShelter.Data\\PetShelter.Data.csproj": {
+    "D:\\alexd_11g\\PetShelter-main\\PetShelter.Services\\PetShelter.Services.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\alexd_11g\\PetShelter-main\\PetShelter.Data\\PetShelter.Data.csproj",
-        "projectName": "PetShelter.Data",
-        "projectPath": "D:\\alexd_11g\\PetShelter-main\\PetShelter.Data\\PetShelter.Data.csproj",
+        "projectUniqueName": "D:\\alexd_11g\\PetShelter-main\\PetShelter.Services\\PetShelter.Services.csproj",
+        "projectName": "PetShelter.Services",
+        "projectPath": "D:\\alexd_11g\\PetShelter-main\\PetShelter.Services\\PetShelter.Services.csproj",
         "packagesPath": "C:\\Users\\student\\.nuget\\packages\\",
-        "outputPath": "D:\\alexd_11g\\PetShelter-main\\PetShelter.Data\\obj\\",
+        "outputPath": "D:\\alexd_11g\\PetShelter-main\\PetShelter.Services\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -53,45 +53,9 @@
         "net8.0": {
           "targetAlias": "net8.0",
           "dependencies": {
-            "AutoMapper": {
+            "System.IdentityModel.Tokens.Jwt": {
               "target": "Package",
-              "version": "[13.0.1, )"
-            },
-            "EntityFramework": {
-              "target": "Package",
-              "version": "[6.4.4, )"
-            },
-            "Microsoft.Data.SqlClient": {
-              "target": "Package",
-              "version": "[5.2.0, )"
-            },
-            "Microsoft.EntityFrameworkCore": {
-              "target": "Package",
-              "version": "[8.0.3, )"
-            },
-            "Microsoft.EntityFrameworkCore.Design": {
-              "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
-              "suppressParent": "All",
-              "target": "Package",
-              "version": "[8.0.3, )"
-            },
-            "Microsoft.EntityFrameworkCore.Proxies": {
-              "target": "Package",
-              "version": "[8.0.3, )"
-            },
-            "Microsoft.EntityFrameworkCore.SqlServer": {
-              "target": "Package",
-              "version": "[8.0.3, )"
-            },
-            "Microsoft.EntityFrameworkCore.Tools": {
-              "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
-              "suppressParent": "All",
-              "target": "Package",
-              "version": "[8.0.3, )"
-            },
-            "System.Data.SqlClient": {
-              "target": "Package",
-              "version": "[4.8.6, )"
+              "version": "[7.5.0, )"
             }
           },
           "imports": [

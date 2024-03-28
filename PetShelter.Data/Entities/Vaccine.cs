@@ -1,4 +1,6 @@
-﻿namespace PetShelter.Data.Entities
+﻿using System.Collections.Generic;
+
+namespace PetShelter.Data.Entities
 {
     public class Vaccine : BaseEntity
     {
