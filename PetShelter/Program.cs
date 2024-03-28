@@ -14,6 +14,8 @@ namespace PetShelter
         public static void Main(string[] args)
         {
             CreateHostBuilder(args).Build().Run();
+            HostBuilder builder = new HostBuilder();
+            builder.Services.AddControllersWithViews();
         }
 
         public static IHostBuilder CreateHostBuilder(string[] args) =>

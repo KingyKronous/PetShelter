@@ -9,7 +9,7 @@ using PetShelter.Shared.Enums;
 
 namespace PetShelter.Data
 {
-    class PetShelterDbContext : DbContext
+    public class PetShelterDbContext : DbContext
     {
         public DbSet<User> users { get; set; }
         public PetShelterDbContext(DbContextOptions<PetShelterDbContext> options) : base(options)
