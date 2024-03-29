@@ -10,7 +10,15 @@ namespace PetShelter.Data
 {
     public class PetShelterDbContext : DbContext
     {
+        public DbSet<Breed> breeds { get; set; }
+        public DbSet<Location> locations { get; set; }
+        public DbSet<Pet> pets { get; set; }
+        public DbSet<PetType> petTypes { get; set; }
+        public DbSet<PetVaccine> petVaccines { get; set; }
+        public DbSet<Role> roles { get; set; }
+        public DbSet<Shelter> shelters { get; set; }
         public DbSet<User> users { get; set; }
+        public DbSet<Vaccine> vaccines { get; set; }
         public PetShelterDbContext(DbContextOptions<PetShelterDbContext> options) : base(options)
         {
 
