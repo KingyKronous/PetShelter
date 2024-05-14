@@ -15,7 +15,7 @@ namespace PetShelter.ViewModels
 
         public int LocationId { get; set; }
 
-        public LocationDetailsVM Location { get; set; }
+        //public LocationDetailsVM Location { get; set; }
 
         public List<UserDetailsVM> Employees { get; set; }
 

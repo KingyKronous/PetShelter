@@ -8,6 +8,6 @@ build_property.PlatformNeutralAssembly =
 build_property.EnforceExtendedAnalyzerRules = 
 build_property._SupportedPlatformList = Linux,macOS,Windows
 build_property.RootNamespace = PetShelter.Shared
-build_property.ProjectDir = D:\alexd_11g\PetShelter-main\PetShelter.Shared\
+build_property.ProjectDir = D:\alexander_d11g\folderr\PetShelter\PetShelter.Shared\
 build_property.EnableComHosting = 
 build_property.EnableGeneratedComInterfaceComImportInterop = 

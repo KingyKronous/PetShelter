@@ -1,23 +1,23 @@
 {
   "format": 1,
   "restore": {
-    "D:\\alexd_11g\\PetShelter-main\\PetShelter\\PetShelter.csproj": {}
+    "D:\\alexander_d11g\\folderr\\PetShelter\\PetShelter\\PetShelter.csproj": {}
   },
   "projects": {
-    "D:\\alexd_11g\\PetShelter-main\\PetShelter.Data\\PetShelter.Data.csproj": {
+    "D:\\alexander_d11g\\folderr\\PetShelter\\PetShelter.Data\\PetShelter.Data.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\alexd_11g\\PetShelter-main\\PetShelter.Data\\PetShelter.Data.csproj",
+        "projectUniqueName": "D:\\alexander_d11g\\folderr\\PetShelter\\PetShelter.Data\\PetShelter.Data.csproj",
         "projectName": "PetShelter.Data",
-        "projectPath": "D:\\alexd_11g\\PetShelter-main\\PetShelter.Data\\PetShelter.Data.csproj",
-        "packagesPath": "C:\\Users\\student\\.nuget\\packages\\",
-        "outputPath": "D:\\alexd_11g\\PetShelter-main\\PetShelter.Data\\obj\\",
+        "projectPath": "D:\\alexander_d11g\\folderr\\PetShelter\\PetShelter.Data\\PetShelter.Data.csproj",
+        "packagesPath": "C:\\Users\\dzi_22\\.nuget\\packages\\",
+        "outputPath": "D:\\alexander_d11g\\folderr\\PetShelter\\PetShelter.Data\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
         ],
         "configFilePaths": [
-          "C:\\Users\\student\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\dzi_22\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
@@ -32,8 +32,8 @@
           "net8.0": {
             "targetAlias": "net8.0",
             "projectReferences": {
-              "D:\\alexd_11g\\PetShelter-main\\PetShelter.Shared\\PetShelter.Shared.csproj": {
-                "projectPath": "D:\\alexd_11g\\PetShelter-main\\PetShelter.Shared\\PetShelter.Shared.csproj"
+              "D:\\alexander_d11g\\folderr\\PetShelter\\PetShelter.Shared\\PetShelter.Shared.csproj": {
+                "projectPath": "D:\\alexander_d11g\\folderr\\PetShelter\\PetShelter.Shared\\PetShelter.Shared.csproj"
               }
             }
           }
@@ -114,20 +114,94 @@
         }
       }
     },
-    "D:\\alexd_11g\\PetShelter-main\\PetShelter.Shared\\PetShelter.Shared.csproj": {
+    "D:\\alexander_d11g\\folderr\\PetShelter\\PetShelter.Services\\PetShelter.Services.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\alexd_11g\\PetShelter-main\\PetShelter.Shared\\PetShelter.Shared.csproj",
-        "projectName": "PetShelter.Shared",
-        "projectPath": "D:\\alexd_11g\\PetShelter-main\\PetShelter.Shared\\PetShelter.Shared.csproj",
-        "packagesPath": "C:\\Users\\student\\.nuget\\packages\\",
-        "outputPath": "D:\\alexd_11g\\PetShelter-main\\PetShelter.Shared\\obj\\",
+        "projectUniqueName": "D:\\alexander_d11g\\folderr\\PetShelter\\PetShelter.Services\\PetShelter.Services.csproj",
+        "projectName": "PetShelter.Services",
+        "projectPath": "D:\\alexander_d11g\\folderr\\PetShelter\\PetShelter.Services\\PetShelter.Services.csproj",
+        "packagesPath": "C:\\Users\\dzi_22\\.nuget\\packages\\",
+        "outputPath": "D:\\alexander_d11g\\folderr\\PetShelter\\PetShelter.Services\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
         ],
         "configFilePaths": [
-          "C:\\Users\\student\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\dzi_22\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net8.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net8.0": {
+            "targetAlias": "net8.0",
+            "projectReferences": {
+              "D:\\alexander_d11g\\folderr\\PetShelter\\PetShelter.Shared\\PetShelter.Shared.csproj": {
+                "projectPath": "D:\\alexander_d11g\\folderr\\PetShelter\\PetShelter.Shared\\PetShelter.Shared.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
+        }
+      },
+      "frameworks": {
+        "net8.0": {
+          "targetAlias": "net8.0",
+          "dependencies": {
+            "System.IdentityModel.Tokens.Jwt": {
+              "target": "Package",
+              "version": "[7.5.0, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.202/PortableRuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "D:\\alexander_d11g\\folderr\\PetShelter\\PetShelter.Shared\\PetShelter.Shared.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "D:\\alexander_d11g\\folderr\\PetShelter\\PetShelter.Shared\\PetShelter.Shared.csproj",
+        "projectName": "PetShelter.Shared",
+        "projectPath": "D:\\alexander_d11g\\folderr\\PetShelter\\PetShelter.Shared\\PetShelter.Shared.csproj",
+        "packagesPath": "C:\\Users\\dzi_22\\.nuget\\packages\\",
+        "outputPath": "D:\\alexander_d11g\\folderr\\PetShelter\\PetShelter.Shared\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\dzi_22\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
@@ -192,20 +266,20 @@
         }
       }
     },
-    "D:\\alexd_11g\\PetShelter-main\\PetShelter\\PetShelter.csproj": {
+    "D:\\alexander_d11g\\folderr\\PetShelter\\PetShelter\\PetShelter.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\alexd_11g\\PetShelter-main\\PetShelter\\PetShelter.csproj",
+        "projectUniqueName": "D:\\alexander_d11g\\folderr\\PetShelter\\PetShelter\\PetShelter.csproj",
         "projectName": "PetShelter",
-        "projectPath": "D:\\alexd_11g\\PetShelter-main\\PetShelter\\PetShelter.csproj",
-        "packagesPath": "C:\\Users\\student\\.nuget\\packages\\",
-        "outputPath": "D:\\alexd_11g\\PetShelter-main\\PetShelter\\obj\\",
+        "projectPath": "D:\\alexander_d11g\\folderr\\PetShelter\\PetShelter\\PetShelter.csproj",
+        "packagesPath": "C:\\Users\\dzi_22\\.nuget\\packages\\",
+        "outputPath": "D:\\alexander_d11g\\folderr\\PetShelter\\PetShelter\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
         ],
         "configFilePaths": [
-          "C:\\Users\\student\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\dzi_22\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
@@ -220,11 +294,14 @@
           "net8.0": {
             "targetAlias": "net8.0",
             "projectReferences": {
-              "D:\\alexd_11g\\PetShelter-main\\PetShelter.Data\\PetShelter.Data.csproj": {
-                "projectPath": "D:\\alexd_11g\\PetShelter-main\\PetShelter.Data\\PetShelter.Data.csproj"
+              "D:\\alexander_d11g\\folderr\\PetShelter\\PetShelter.Data\\PetShelter.Data.csproj": {
+                "projectPath": "D:\\alexander_d11g\\folderr\\PetShelter\\PetShelter.Data\\PetShelter.Data.csproj"
               },
-              "D:\\alexd_11g\\PetShelter-main\\PetShelter.Shared\\PetShelter.Shared.csproj": {
-                "projectPath": "D:\\alexd_11g\\PetShelter-main\\PetShelter.Shared\\PetShelter.Shared.csproj"
+              "D:\\alexander_d11g\\folderr\\PetShelter\\PetShelter.Services\\PetShelter.Services.csproj": {
+                "projectPath": "D:\\alexander_d11g\\folderr\\PetShelter\\PetShelter.Services\\PetShelter.Services.csproj"
+              },
+              "D:\\alexander_d11g\\folderr\\PetShelter\\PetShelter.Shared\\PetShelter.Shared.csproj": {
+                "projectPath": "D:\\alexander_d11g\\folderr\\PetShelter\\PetShelter.Shared\\PetShelter.Shared.csproj"
               }
             }
           }
@@ -252,6 +329,18 @@
               "target": "Package",
               "version": "[8.0.3, )"
             },
+            "Microsoft.AspNetCore.Components.QuickGrid.EntityFrameworkAdapter": {
+              "target": "Package",
+              "version": "[8.0.3, )"
+            },
+            "Microsoft.AspNetCore.Identity": {
+              "target": "Package",
+              "version": "[2.2.0, )"
+            },
+            "Microsoft.AspNetCore.Identity.UI": {
+              "target": "Package",
+              "version": "[8.0.4, )"
+            },
             "Microsoft.EntityFrameworkCore": {
               "target": "Package",
               "version": "[8.0.3, )"
@@ -269,6 +358,10 @@
             "Microsoft.Extensions.DependencyInjection": {
               "target": "Package",
               "version": "[8.0.0, )"
+            },
+            "Microsoft.Owin.Security.Jwt": {
+              "target": "Package",
+              "version": "[4.2.2, )"
             },
             "Microsoft.VisualStudio.Web.CodeGeneration.Design": {
               "target": "Package",

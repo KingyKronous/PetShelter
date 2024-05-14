@@ -1,4 +1,7 @@
-﻿using System.ComponentModel.DataAnnotations;
+﻿using Microsoft.AspNetCore.Mvc.Rendering;
+using System.Collections.Generic;
+using System.ComponentModel;
+using System.ComponentModel.DataAnnotations;
 
 namespace PetShelter.ViewModels
 {
@@ -7,8 +10,10 @@ namespace PetShelter.ViewModels
         [Required]
         public int PetCapacity { get; set; }
         [Required]
+        [DisplayName("Location")]
         public int LocationId { get; set; }
-        [Required]
-        public LocationDetailsVM Location { get; set; }
+        public IEnumerable<SelectListItem> LocationsList { get; set; }
+        //[Required]
+        //public LocationDetailsVM Location { get; set; }
     }
 }
