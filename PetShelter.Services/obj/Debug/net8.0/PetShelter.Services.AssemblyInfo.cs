@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("PetShelter.Services")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+cd99ca9432d460740fd05586c3238876bad8eb0d")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+ad6ee8ab073c0116b8b4305cc08571a9014b933a")]
 [assembly: System.Reflection.AssemblyProductAttribute("PetShelter.Services")]
 [assembly: System.Reflection.AssemblyTitleAttribute("PetShelter.Services")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

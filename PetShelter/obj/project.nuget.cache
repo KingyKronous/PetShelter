@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "ria84wDSW55eXRpksq28PTlMPnYiw0jdOtamSyrYdHbB+e1yi0kmsibrVurEH2UCQSmpIKOxVjMN/0D9M5iKcw==",
+  "dgSpecHash": "0v0kbYiN7XEB5KziMAhPQJZgKuoSVSOvSjQyRT6VS5gBBrWW0KwT0Hfn6gbZz3/ySmutEzKNEUuyqOyn6IAA3Q==",
   "success": true,
-  "projectFilePath": "D:\\alexander_d11g\\folderr\\PetShelter\\PetShelter\\PetShelter.csproj",
+  "projectFilePath": "D:\\alex11g\\projects\\PetShelter\\PetShelter\\PetShelter.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\dzi_22\\.nuget\\packages\\automapper\\13.0.1\\automapper.13.0.1.nupkg.sha512",
     "C:\\Users\\dzi_22\\.nuget\\packages\\automapper.extensions.microsoft.dependencyinjection\\12.0.0\\automapper.extensions.microsoft.dependencyinjection.12.0.0.nupkg.sha512",

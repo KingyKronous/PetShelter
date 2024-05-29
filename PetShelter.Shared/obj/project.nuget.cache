@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "zoSitj7Lvg2eEhu12ifyrkATI9vZMlG9kL05YmFFtEZjScXu+wTRvW0RXnUJ8tTyMp5JfUKfH6v1Te5s9iU9eA==",
+  "dgSpecHash": "AWSLk7Vq/VSBcvcFlQzOiaiTu4GqvcTSuVZRNO9tOnSMnXQ6X/eczaRbnT5mojq2+l9Uxzjs9kGfSuvq+4M92w==",
   "success": true,
-  "projectFilePath": "D:\\alexander_d11g\\folderr\\PetShelter\\PetShelter.Shared\\PetShelter.Shared.csproj",
+  "projectFilePath": "D:\\alex11g\\projects\\PetShelter\\PetShelter.Shared\\PetShelter.Shared.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\dzi_22\\.nuget\\packages\\microsoft.aspnetcore.cryptography.internal\\8.0.3\\microsoft.aspnetcore.cryptography.internal.8.0.3.nupkg.sha512",
     "C:\\Users\\dzi_22\\.nuget\\packages\\microsoft.aspnetcore.cryptography.keyderivation\\8.0.3\\microsoft.aspnetcore.cryptography.keyderivation.8.0.3.nupkg.sha512",
