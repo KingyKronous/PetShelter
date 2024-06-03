@@ -16,7 +16,7 @@ namespace PetShelter.Controllers
         where TModel : BaseModel
         where TRepository : IBaseRepository<TModel>
         where TService : IBaseCrudService<TModel, TRepository>
-        where TEditVM : BaseVM
+        where TEditVM : BaseVM, new ()
         where TDetailsVM : BaseVM
     {
         protected const int DefaultPageSize = 10;
@@ -33,10 +33,11 @@ namespace PetShelter.Controllers
         {
             return Task.FromResult<string?>(null);
         }
-        protected virtual Task<string?> PrePopulateVMAsync()
+        protected virtual Task<TEditVM> PrePopulateVMAsync(TEditVM editVM)
         {
-            return Task.FromResult(new TEditVM());
+            return Task.FromResult(editVM);
         }
+
         [HttpGet]
         public virtual async Task<IActionResult> List(
             int pageSize = DefaultPageSize,
@@ -68,10 +69,11 @@ namespace PetShelter.Controllers
         [HttpGet]
         public virtual async Task<IActionResult> Create()
         {
-            var editVM = await PrePopulateVMAsync();
+            var editVM = await PrePopulateVMAsync(new TEditVM());
 
             return View(editVM);
         }
+        [HttpPost]
         public virtual async Task<IActionResult> Create(TEditVM editVM)
         {
             var errors = await Validate(editVM);
@@ -86,6 +88,7 @@ namespace PetShelter.Controllers
 
             return await List();
         }
+        [HttpGet]
         public virtual async Task<IActionResult> Edit(int? id)
         {
             if (id == null)
@@ -101,9 +104,11 @@ namespace PetShelter.Controllers
             }
 
             var mappedModel = _mapper.Map<TEditVM>(model);
+            mappedModel = await PrePopulateVMAsync(mappedModel);
 
             return View(mappedModel);
         }
+        [HttpPost]
         public virtual async Task<IActionResult> Edit(int id, TEditVM editVM)
         {
             var errors = await Validate(editVM);
@@ -123,6 +128,7 @@ namespace PetShelter.Controllers
 
             return await List();
         }
+        [HttpGet]
         public virtual async Task<IActionResult> Delete(int? id)
         {
             if (id == null)
@@ -141,6 +147,7 @@ namespace PetShelter.Controllers
 
             return View(mappedModel);
         }
+        [HttpPost]
         public virtual async Task<IActionResult> Delete(int id)
         {
             if (!await this._service.ExistsByIdAsync(id))

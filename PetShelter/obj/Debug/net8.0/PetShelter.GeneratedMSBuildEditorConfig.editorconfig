@@ -26,6 +26,14 @@ build_property.GenerateRazorMetadataSourceChecksumAttributes =
 build_property.MSBuildProjectDirectory = D:\alex11g\projects\PetShelter\PetShelter
 build_property._RazorSourceGeneratorDebug = 
 
+[D:/alex11g/projects/PetShelter/PetShelter/Views/Breed/Create.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQnJlZWRcQ3JlYXRlLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/alex11g/projects/PetShelter/PetShelter/Views/Breed/List.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQnJlZWRcTGlzdC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
 [D:/alex11g/projects/PetShelter/PetShelter/Views/Home/Index.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxJbmRleC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
