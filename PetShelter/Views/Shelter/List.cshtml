@@ -1,7 +1,7 @@
-﻿@model IEnumerable<PetShelter.ViewModels.BreedDetailsVM>
+﻿@model IEnumerable<PetShelter.ViewModels.ShelterDetailsVM>
 
 @{
-    ViewBag.Title = "Index";
+    ViewBag.Title = "List";
 }
 
 <h2>Index</h2>
@@ -11,10 +11,7 @@
 <table class="table">
     <tr>
         <th>
-            @Html.DisplayNameFor(model => model.Name)
-        </th>
-        <th>
-            @Html.DisplayNameFor(model => model.Size)
+            @Html.DisplayNameFor(model => model.PetCapacity)
         </th>
         <th>
             @Html.DisplayNameFor(model => model.Pets)
@@ -25,10 +22,7 @@
     {
         <tr>
             <td>
-                @Html.DisplayFor(modelItem => item.Name)
-            </td>
-            <td>
-                @Html.DisplayFor(modelItem => item.Size)
+                @Html.DisplayFor(modelItem => item.PetCapacity)
             </td>
             <td>
                 @Html.DisplayFor(modelItem => item.Pets.Count)

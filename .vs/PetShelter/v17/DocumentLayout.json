@@ -3,6 +3,62 @@
   "WorkspaceRootPath": "D:\\alex11g\\projects\\PetShelter\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{1146E3F4-D3AC-41E1-AF53-317F259BA93E}|PetShelter\\PetShelter.csproj|d:\\alex11g\\projects\\petshelter\\petshelter\\views\\location\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{1146E3F4-D3AC-41E1-AF53-317F259BA93E}|PetShelter\\PetShelter.csproj|solutionrelative:petshelter\\views\\location\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1146E3F4-D3AC-41E1-AF53-317F259BA93E}|PetShelter\\PetShelter.csproj|d:\\alex11g\\projects\\petshelter\\petshelter\\viewmodels\\locationeditvm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1146E3F4-D3AC-41E1-AF53-317F259BA93E}|PetShelter\\PetShelter.csproj|solutionrelative:petshelter\\viewmodels\\locationeditvm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1146E3F4-D3AC-41E1-AF53-317F259BA93E}|PetShelter\\PetShelter.csproj|d:\\alex11g\\projects\\petshelter\\petshelter\\viewmodels\\locationdetailsvm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1146E3F4-D3AC-41E1-AF53-317F259BA93E}|PetShelter\\PetShelter.csproj|solutionrelative:petshelter\\viewmodels\\locationdetailsvm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1146E3F4-D3AC-41E1-AF53-317F259BA93E}|PetShelter\\PetShelter.csproj|d:\\alex11g\\projects\\petshelter\\petshelter\\viewmodels\\shelterdetailsvm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1146E3F4-D3AC-41E1-AF53-317F259BA93E}|PetShelter\\PetShelter.csproj|solutionrelative:petshelter\\viewmodels\\shelterdetailsvm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1146E3F4-D3AC-41E1-AF53-317F259BA93E}|PetShelter\\PetShelter.csproj|d:\\alex11g\\projects\\petshelter\\petshelter\\viewmodels\\sheltereditvm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1146E3F4-D3AC-41E1-AF53-317F259BA93E}|PetShelter\\PetShelter.csproj|solutionrelative:petshelter\\viewmodels\\sheltereditvm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1146E3F4-D3AC-41E1-AF53-317F259BA93E}|PetShelter\\PetShelter.csproj|d:\\alex11g\\projects\\petshelter\\petshelter\\views\\shelter\\list.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{1146E3F4-D3AC-41E1-AF53-317F259BA93E}|PetShelter\\PetShelter.csproj|solutionrelative:petshelter\\views\\shelter\\list.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1146E3F4-D3AC-41E1-AF53-317F259BA93E}|PetShelter\\PetShelter.csproj|d:\\alex11g\\projects\\petshelter\\petshelter\\views\\breed\\list.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{1146E3F4-D3AC-41E1-AF53-317F259BA93E}|PetShelter\\PetShelter.csproj|solutionrelative:petshelter\\views\\breed\\list.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1146E3F4-D3AC-41E1-AF53-317F259BA93E}|PetShelter\\PetShelter.csproj|d:\\alex11g\\projects\\petshelter\\petshelter\\views\\shelter\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{1146E3F4-D3AC-41E1-AF53-317F259BA93E}|PetShelter\\PetShelter.csproj|solutionrelative:petshelter\\views\\shelter\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1146E3F4-D3AC-41E1-AF53-317F259BA93E}|PetShelter\\PetShelter.csproj|d:\\alex11g\\projects\\petshelter\\petshelter\\views\\shelter\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{1146E3F4-D3AC-41E1-AF53-317F259BA93E}|PetShelter\\PetShelter.csproj|solutionrelative:petshelter\\views\\shelter\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1146E3F4-D3AC-41E1-AF53-317F259BA93E}|PetShelter\\PetShelter.csproj|d:\\alex11g\\projects\\petshelter\\petshelter\\views\\shelter\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{1146E3F4-D3AC-41E1-AF53-317F259BA93E}|PetShelter\\PetShelter.csproj|solutionrelative:petshelter\\views\\shelter\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1146E3F4-D3AC-41E1-AF53-317F259BA93E}|PetShelter\\PetShelter.csproj|d:\\alex11g\\projects\\petshelter\\petshelter\\views\\shelter\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{1146E3F4-D3AC-41E1-AF53-317F259BA93E}|PetShelter\\PetShelter.csproj|solutionrelative:petshelter\\views\\shelter\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1146E3F4-D3AC-41E1-AF53-317F259BA93E}|PetShelter\\PetShelter.csproj|d:\\alex11g\\projects\\petshelter\\petshelter\\views\\breed\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{1146E3F4-D3AC-41E1-AF53-317F259BA93E}|PetShelter\\PetShelter.csproj|solutionrelative:petshelter\\views\\breed\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1146E3F4-D3AC-41E1-AF53-317F259BA93E}|PetShelter\\PetShelter.csproj|d:\\alex11g\\projects\\petshelter\\petshelter\\views\\breed\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{1146E3F4-D3AC-41E1-AF53-317F259BA93E}|PetShelter\\PetShelter.csproj|solutionrelative:petshelter\\views\\breed\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1146E3F4-D3AC-41E1-AF53-317F259BA93E}|PetShelter\\PetShelter.csproj|d:\\alex11g\\projects\\petshelter\\petshelter\\views\\breed\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{1146E3F4-D3AC-41E1-AF53-317F259BA93E}|PetShelter\\PetShelter.csproj|solutionrelative:petshelter\\views\\breed\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{1146E3F4-D3AC-41E1-AF53-317F259BA93E}|PetShelter\\PetShelter.csproj|d:\\alex11g\\projects\\petshelter\\petshelter\\views\\breed\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{1146E3F4-D3AC-41E1-AF53-317F259BA93E}|PetShelter\\PetShelter.csproj|solutionrelative:petshelter\\views\\breed\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
@@ -29,14 +85,6 @@
     {
       "AbsoluteMoniker": "D:0:0:{1146E3F4-D3AC-41E1-AF53-317F259BA93E}|PetShelter\\PetShelter.csproj|d:\\alex11g\\projects\\petshelter\\petshelter\\controllers\\basecrudcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{1146E3F4-D3AC-41E1-AF53-317F259BA93E}|PetShelter\\PetShelter.csproj|solutionrelative:petshelter\\controllers\\basecrudcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{1146E3F4-D3AC-41E1-AF53-317F259BA93E}|PetShelter\\PetShelter.csproj|d:\\alex11g\\projects\\petshelter\\petshelter\\viewmodels\\sheltereditvm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{1146E3F4-D3AC-41E1-AF53-317F259BA93E}|PetShelter\\PetShelter.csproj|solutionrelative:petshelter\\viewmodels\\sheltereditvm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{1146E3F4-D3AC-41E1-AF53-317F259BA93E}|PetShelter\\PetShelter.csproj|d:\\alex11g\\projects\\petshelter\\petshelter\\viewmodels\\shelterdetailsvm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{1146E3F4-D3AC-41E1-AF53-317F259BA93E}|PetShelter\\PetShelter.csproj|solutionrelative:petshelter\\viewmodels\\shelterdetailsvm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{1146E3F4-D3AC-41E1-AF53-317F259BA93E}|PetShelter\\PetShelter.csproj|d:\\alex11g\\projects\\petshelter\\petshelter\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -86,102 +134,76 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": 2,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "Create.cshtml",
-              "DocumentMoniker": "D:\\alex11g\\projects\\PetShelter\\PetShelter\\Views\\Breed\\Create.cshtml",
-              "RelativeDocumentMoniker": "PetShelter\\Views\\Breed\\Create.cshtml",
-              "ToolTip": "D:\\alex11g\\projects\\PetShelter\\PetShelter\\Views\\Breed\\Create.cshtml",
-              "RelativeToolTip": "PetShelter\\Views\\Breed\\Create.cshtml",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAACgAAAAIAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-06-03T06:28:39.607Z",
+              "DocumentIndex": 1,
+              "Title": "LocationEditVM.cs",
+              "DocumentMoniker": "D:\\alex11g\\projects\\PetShelter\\PetShelter\\ViewModels\\LocationEditVM.cs",
+              "RelativeDocumentMoniker": "PetShelter\\ViewModels\\LocationEditVM.cs",
+              "ToolTip": "D:\\alex11g\\projects\\PetShelter\\PetShelter\\ViewModels\\LocationEditVM.cs",
+              "RelativeToolTip": "PetShelter\\ViewModels\\LocationEditVM.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-04T06:09:24.888Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 2,
-              "Title": "ShelterController.cs",
-              "DocumentMoniker": "D:\\alex11g\\projects\\PetShelter\\PetShelter\\Controllers\\ShelterController.cs",
-              "RelativeDocumentMoniker": "PetShelter\\Controllers\\ShelterController.cs",
-              "ToolTip": "D:\\alex11g\\projects\\PetShelter\\PetShelter\\Controllers\\ShelterController.cs",
-              "RelativeToolTip": "PetShelter\\Controllers\\ShelterController.cs",
-              "ViewState": "AQIAAAUAAAAAAAAAAAAAAA0AAAB1AAAA",
+              "Title": "LocationDetailsVM.cs",
+              "DocumentMoniker": "D:\\alex11g\\projects\\PetShelter\\PetShelter\\ViewModels\\LocationDetailsVM.cs",
+              "RelativeDocumentMoniker": "PetShelter\\ViewModels\\LocationDetailsVM.cs",
+              "ToolTip": "D:\\alex11g\\projects\\PetShelter\\PetShelter\\ViewModels\\LocationDetailsVM.cs",
+              "RelativeToolTip": "PetShelter\\ViewModels\\LocationDetailsVM.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-06-03T05:18:49.165Z",
+              "WhenOpened": "2024-06-04T06:09:23.82Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
-              "Title": "BaseCrudController.cs",
-              "DocumentMoniker": "D:\\alex11g\\projects\\PetShelter\\PetShelter\\Controllers\\BaseCrudController.cs",
-              "RelativeDocumentMoniker": "PetShelter\\Controllers\\BaseCrudController.cs",
-              "ToolTip": "D:\\alex11g\\projects\\PetShelter\\PetShelter\\Controllers\\BaseCrudController.cs",
-              "RelativeToolTip": "PetShelter\\Controllers\\BaseCrudController.cs",
-              "ViewState": "AQIAAIsAAAAAAAAAAAAowJUAAAASAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-05-14T06:34:09.873Z",
+              "DocumentIndex": 0,
+              "Title": "Create.cshtml",
+              "DocumentMoniker": "D:\\alex11g\\projects\\PetShelter\\PetShelter\\Views\\Location\\Create.cshtml",
+              "RelativeDocumentMoniker": "PetShelter\\Views\\Location\\Create.cshtml",
+              "ToolTip": "D:\\alex11g\\projects\\PetShelter\\PetShelter\\Views\\Location\\Create.cshtml",
+              "RelativeToolTip": "PetShelter\\Views\\Location\\Create.cshtml",
+              "ViewState": "AQIAAAsAAAAAAAAAAAAmwCMAAABBAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-06-04T06:09:06.078Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 5,
-              "Title": "BreedController.cs",
-              "DocumentMoniker": "D:\\alex11g\\projects\\PetShelter\\PetShelter\\Controllers\\BreedController.cs",
-              "RelativeDocumentMoniker": "PetShelter\\Controllers\\BreedController.cs",
-              "ToolTip": "D:\\alex11g\\projects\\PetShelter\\PetShelter\\Controllers\\BreedController.cs",
-              "RelativeToolTip": "PetShelter\\Controllers\\BreedController.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAEAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-05-14T07:01:17.555Z",
+              "Title": "List.cshtml",
+              "DocumentMoniker": "D:\\alex11g\\projects\\PetShelter\\PetShelter\\Views\\Shelter\\List.cshtml",
+              "RelativeDocumentMoniker": "PetShelter\\Views\\Shelter\\List.cshtml",
+              "ToolTip": "D:\\alex11g\\projects\\PetShelter\\PetShelter\\Views\\Shelter\\List.cshtml",
+              "RelativeToolTip": "PetShelter\\Views\\Shelter\\List.cshtml",
+              "ViewState": "AQIAAAwAAAAAAAAAAAAAABkAAAARAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-06-04T06:04:53.271Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "LocationController.cs",
-              "DocumentMoniker": "D:\\alex11g\\projects\\PetShelter\\PetShelter\\Controllers\\LocationController.cs",
-              "RelativeDocumentMoniker": "PetShelter\\Controllers\\LocationController.cs",
-              "ToolTip": "D:\\alex11g\\projects\\PetShelter\\PetShelter\\Controllers\\LocationController.cs",
-              "RelativeToolTip": "PetShelter\\Controllers\\LocationController.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAArAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-05-29T06:43:43.694Z",
+              "DocumentIndex": 7,
+              "Title": "Edit.cshtml",
+              "DocumentMoniker": "D:\\alex11g\\projects\\PetShelter\\PetShelter\\Views\\Shelter\\Edit.cshtml",
+              "RelativeDocumentMoniker": "PetShelter\\Views\\Shelter\\Edit.cshtml",
+              "ToolTip": "D:\\alex11g\\projects\\PetShelter\\PetShelter\\Views\\Shelter\\Edit.cshtml",
+              "RelativeToolTip": "PetShelter\\Views\\Shelter\\Edit.cshtml",
+              "ViewState": "AQIAABIAAAAAAAAAAAAAAB4AAAAOAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-06-04T06:03:59.65Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 3,
-              "Title": "RoleController.cs",
-              "DocumentMoniker": "D:\\alex11g\\projects\\PetShelter\\PetShelter\\Controllers\\RoleController.cs",
-              "RelativeDocumentMoniker": "PetShelter\\Controllers\\RoleController.cs",
-              "ToolTip": "D:\\alex11g\\projects\\PetShelter\\PetShelter\\Controllers\\RoleController.cs",
-              "RelativeToolTip": "PetShelter\\Controllers\\RoleController.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAFAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-05-29T06:51:46.892Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "AuthController.cs",
-              "DocumentMoniker": "D:\\alex11g\\projects\\PetShelter\\PetShelter\\Controllers\\AuthController.cs",
-              "RelativeDocumentMoniker": "PetShelter\\Controllers\\AuthController.cs",
-              "ToolTip": "D:\\alex11g\\projects\\PetShelter\\PetShelter\\Controllers\\AuthController.cs",
-              "RelativeToolTip": "PetShelter\\Controllers\\AuthController.cs",
-              "ViewState": "AQIAAHAAAAAAAAAAAAAgwHkAAABKAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-05-29T07:00:12.994Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 8,
               "Title": "ShelterDetailsVM.cs",
               "DocumentMoniker": "D:\\alex11g\\projects\\PetShelter\\PetShelter\\ViewModels\\ShelterDetailsVM.cs",
               "RelativeDocumentMoniker": "PetShelter\\ViewModels\\ShelterDetailsVM.cs",
@@ -194,31 +216,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 13,
-              "Title": "PetVaccineController.cs",
-              "DocumentMoniker": "D:\\alex11g\\projects\\PetShelter\\PetShelter\\Controllers\\PetVaccineController.cs",
-              "RelativeDocumentMoniker": "PetShelter\\Controllers\\PetVaccineController.cs",
-              "ToolTip": "D:\\alex11g\\projects\\PetShelter\\PetShelter\\Controllers\\PetVaccineController.cs",
-              "RelativeToolTip": "PetShelter\\Controllers\\PetVaccineController.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAABEAAAAFAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-05-29T06:51:15.146Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 9,
-              "Title": "Program.cs",
-              "DocumentMoniker": "D:\\alex11g\\projects\\PetShelter\\PetShelter\\Program.cs",
-              "RelativeDocumentMoniker": "PetShelter\\Program.cs",
-              "ToolTip": "D:\\alex11g\\projects\\PetShelter\\PetShelter\\Program.cs",
-              "RelativeToolTip": "PetShelter\\Program.cs",
-              "ViewState": "AQIAABYAAAAAAAAAAAAAACYAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-05-14T06:26:13.703Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 7,
+              "DocumentIndex": 4,
               "Title": "ShelterEditVM.cs",
               "DocumentMoniker": "D:\\alex11g\\projects\\PetShelter\\PetShelter\\ViewModels\\ShelterEditVM.cs",
               "RelativeDocumentMoniker": "PetShelter\\ViewModels\\ShelterEditVM.cs",
@@ -231,7 +229,207 @@
             },
             {
               "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Details.cshtml",
+              "DocumentMoniker": "D:\\alex11g\\projects\\PetShelter\\PetShelter\\Views\\Shelter\\Details.cshtml",
+              "RelativeDocumentMoniker": "PetShelter\\Views\\Shelter\\Details.cshtml",
+              "ToolTip": "D:\\alex11g\\projects\\PetShelter\\PetShelter\\Views\\Shelter\\Details.cshtml",
+              "RelativeToolTip": "PetShelter\\Views\\Shelter\\Details.cshtml",
+              "ViewState": "AQIAAA4AAAAAAAAAAAAAACAAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-06-04T06:02:44.545Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Delete.cshtml",
+              "DocumentMoniker": "D:\\alex11g\\projects\\PetShelter\\PetShelter\\Views\\Shelter\\Delete.cshtml",
+              "RelativeDocumentMoniker": "PetShelter\\Views\\Shelter\\Delete.cshtml",
+              "ToolTip": "D:\\alex11g\\projects\\PetShelter\\PetShelter\\Views\\Shelter\\Delete.cshtml",
+              "RelativeToolTip": "PetShelter\\Views\\Shelter\\Delete.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAEAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-06-04T05:59:27.156Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Create.cshtml",
+              "DocumentMoniker": "D:\\alex11g\\projects\\PetShelter\\PetShelter\\Views\\Shelter\\Create.cshtml",
+              "RelativeDocumentMoniker": "PetShelter\\Views\\Shelter\\Create.cshtml",
+              "ToolTip": "D:\\alex11g\\projects\\PetShelter\\PetShelter\\Views\\Shelter\\Create.cshtml",
+              "RelativeToolTip": "PetShelter\\Views\\Shelter\\Create.cshtml",
+              "ViewState": "AQIAAA8AAAAAAAAAAAAAABcAAAAIAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-06-04T05:56:07.18Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "Delete.cshtml",
+              "DocumentMoniker": "D:\\alex11g\\projects\\PetShelter\\PetShelter\\Views\\Breed\\Delete.cshtml",
+              "RelativeDocumentMoniker": "PetShelter\\Views\\Breed\\Delete.cshtml",
+              "ToolTip": "D:\\alex11g\\projects\\PetShelter\\PetShelter\\Views\\Breed\\Delete.cshtml",
+              "RelativeToolTip": "PetShelter\\Views\\Breed\\Delete.cshtml",
+              "ViewState": "AQIAABIAAAAAAAAAAAAAACkAAAAyAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-06-04T05:46:30.612Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
               "DocumentIndex": 12,
+              "Title": "Details.cshtml",
+              "DocumentMoniker": "D:\\alex11g\\projects\\PetShelter\\PetShelter\\Views\\Breed\\Details.cshtml",
+              "RelativeDocumentMoniker": "PetShelter\\Views\\Breed\\Details.cshtml",
+              "ToolTip": "D:\\alex11g\\projects\\PetShelter\\PetShelter\\Views\\Breed\\Details.cshtml",
+              "RelativeToolTip": "PetShelter\\Views\\Breed\\Details.cshtml",
+              "ViewState": "AQIAAA4AAAAAAAAAAAAmwCQAAAArAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-06-04T05:41:45.052Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "List.cshtml",
+              "DocumentMoniker": "D:\\alex11g\\projects\\PetShelter\\PetShelter\\Views\\Breed\\List.cshtml",
+              "RelativeDocumentMoniker": "PetShelter\\Views\\Breed\\List.cshtml",
+              "ToolTip": "D:\\alex11g\\projects\\PetShelter\\PetShelter\\Views\\Breed\\List.cshtml",
+              "RelativeToolTip": "PetShelter\\Views\\Breed\\List.cshtml",
+              "ViewState": "AQIAABIAAAAAAAAAAAAAABcAAAAWAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-06-04T05:25:52.525Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "Edit.cshtml",
+              "DocumentMoniker": "D:\\alex11g\\projects\\PetShelter\\PetShelter\\Views\\Breed\\Edit.cshtml",
+              "RelativeDocumentMoniker": "PetShelter\\Views\\Breed\\Edit.cshtml",
+              "ToolTip": "D:\\alex11g\\projects\\PetShelter\\PetShelter\\Views\\Breed\\Edit.cshtml",
+              "RelativeToolTip": "PetShelter\\Views\\Breed\\Edit.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-06-04T05:39:41.203Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "Create.cshtml",
+              "DocumentMoniker": "D:\\alex11g\\projects\\PetShelter\\PetShelter\\Views\\Breed\\Create.cshtml",
+              "RelativeDocumentMoniker": "PetShelter\\Views\\Breed\\Create.cshtml",
+              "ToolTip": "D:\\alex11g\\projects\\PetShelter\\PetShelter\\Views\\Breed\\Create.cshtml",
+              "RelativeToolTip": "PetShelter\\Views\\Breed\\Create.cshtml",
+              "ViewState": "AQIAAAkAAAAAAAAAAAAAACcAAAAqAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-06-03T06:28:39.607Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "ShelterController.cs",
+              "DocumentMoniker": "D:\\alex11g\\projects\\PetShelter\\PetShelter\\Controllers\\ShelterController.cs",
+              "RelativeDocumentMoniker": "PetShelter\\Controllers\\ShelterController.cs",
+              "ToolTip": "D:\\alex11g\\projects\\PetShelter\\PetShelter\\Controllers\\ShelterController.cs",
+              "RelativeToolTip": "PetShelter\\Controllers\\ShelterController.cs",
+              "ViewState": "AQIAAAUAAAAAAAAAAAAAAA0AAAB1AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-03T05:18:49.165Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "BaseCrudController.cs",
+              "DocumentMoniker": "D:\\alex11g\\projects\\PetShelter\\PetShelter\\Controllers\\BaseCrudController.cs",
+              "RelativeDocumentMoniker": "PetShelter\\Controllers\\BaseCrudController.cs",
+              "ToolTip": "D:\\alex11g\\projects\\PetShelter\\PetShelter\\Controllers\\BaseCrudController.cs",
+              "RelativeToolTip": "PetShelter\\Controllers\\BaseCrudController.cs",
+              "ViewState": "AQIAAIsAAAAAAAAAAAAowJUAAAASAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-14T06:34:09.873Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "BreedController.cs",
+              "DocumentMoniker": "D:\\alex11g\\projects\\PetShelter\\PetShelter\\Controllers\\BreedController.cs",
+              "RelativeDocumentMoniker": "PetShelter\\Controllers\\BreedController.cs",
+              "ToolTip": "D:\\alex11g\\projects\\PetShelter\\PetShelter\\Controllers\\BreedController.cs",
+              "RelativeToolTip": "PetShelter\\Controllers\\BreedController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAEAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-14T07:01:17.555Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "LocationController.cs",
+              "DocumentMoniker": "D:\\alex11g\\projects\\PetShelter\\PetShelter\\Controllers\\LocationController.cs",
+              "RelativeDocumentMoniker": "PetShelter\\Controllers\\LocationController.cs",
+              "ToolTip": "D:\\alex11g\\projects\\PetShelter\\PetShelter\\Controllers\\LocationController.cs",
+              "RelativeToolTip": "PetShelter\\Controllers\\LocationController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAArAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-29T06:43:43.694Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "RoleController.cs",
+              "DocumentMoniker": "D:\\alex11g\\projects\\PetShelter\\PetShelter\\Controllers\\RoleController.cs",
+              "RelativeDocumentMoniker": "PetShelter\\Controllers\\RoleController.cs",
+              "ToolTip": "D:\\alex11g\\projects\\PetShelter\\PetShelter\\Controllers\\RoleController.cs",
+              "RelativeToolTip": "PetShelter\\Controllers\\RoleController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-29T06:51:46.892Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "AuthController.cs",
+              "DocumentMoniker": "D:\\alex11g\\projects\\PetShelter\\PetShelter\\Controllers\\AuthController.cs",
+              "RelativeDocumentMoniker": "PetShelter\\Controllers\\AuthController.cs",
+              "ToolTip": "D:\\alex11g\\projects\\PetShelter\\PetShelter\\Controllers\\AuthController.cs",
+              "RelativeToolTip": "PetShelter\\Controllers\\AuthController.cs",
+              "ViewState": "AQIAAHAAAAAAAAAAAAAgwHkAAABKAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-29T07:00:12.994Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "PetVaccineController.cs",
+              "DocumentMoniker": "D:\\alex11g\\projects\\PetShelter\\PetShelter\\Controllers\\PetVaccineController.cs",
+              "RelativeDocumentMoniker": "PetShelter\\Controllers\\PetVaccineController.cs",
+              "ToolTip": "D:\\alex11g\\projects\\PetShelter\\PetShelter\\Controllers\\PetVaccineController.cs",
+              "RelativeToolTip": "PetShelter\\Controllers\\PetVaccineController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABEAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-29T06:51:15.146Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\alex11g\\projects\\PetShelter\\PetShelter\\Program.cs",
+              "RelativeDocumentMoniker": "PetShelter\\Program.cs",
+              "ToolTip": "D:\\alex11g\\projects\\PetShelter\\PetShelter\\Program.cs",
+              "RelativeToolTip": "PetShelter\\Program.cs",
+              "ViewState": "AQIAABYAAAAAAAAAAAAAACYAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-14T06:26:13.703Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
               "Title": "UserController.cs",
               "DocumentMoniker": "D:\\alex11g\\projects\\PetShelter\\PetShelter\\Controllers\\UserController.cs",
               "RelativeDocumentMoniker": "PetShelter\\Controllers\\UserController.cs",
@@ -243,7 +441,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 11,
+              "DocumentIndex": 23,
               "Title": "VaccineController.cs",
               "DocumentMoniker": "D:\\alex11g\\projects\\PetShelter\\PetShelter\\Controllers\\VaccineController.cs",
               "RelativeDocumentMoniker": "PetShelter\\Controllers\\VaccineController.cs",
@@ -255,7 +453,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 10,
+              "DocumentIndex": 22,
               "Title": "Startup.cs",
               "DocumentMoniker": "D:\\alex11g\\projects\\PetShelter\\PetShelter\\Startup.cs",
               "RelativeDocumentMoniker": "PetShelter\\Startup.cs",
@@ -267,7 +465,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 14,
+              "DocumentIndex": 26,
               "Title": "PetTypeController.cs",
               "DocumentMoniker": "D:\\alex11g\\projects\\PetShelter\\PetShelter\\Controllers\\PetTypeController.cs",
               "RelativeDocumentMoniker": "PetShelter\\Controllers\\PetTypeController.cs",
@@ -279,7 +477,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 15,
+              "DocumentIndex": 27,
               "Title": "PetController.cs",
               "DocumentMoniker": "D:\\alex11g\\projects\\PetShelter\\PetShelter\\Controllers\\PetController.cs",
               "RelativeDocumentMoniker": "PetShelter\\Controllers\\PetController.cs",
@@ -291,7 +489,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 16,
+              "DocumentIndex": 28,
               "Title": "ILocationsService.cs",
               "DocumentMoniker": "D:\\alex11g\\projects\\PetShelter\\PetShelter.Shared\\Services\\Contracts\\ILocationsService.cs",
               "RelativeDocumentMoniker": "PetShelter.Shared\\Services\\Contracts\\ILocationsService.cs",
@@ -303,7 +501,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 17,
+              "DocumentIndex": 29,
               "Title": "AutoMapperConfiguration.cs",
               "DocumentMoniker": "D:\\alex11g\\projects\\PetShelter\\PetShelter\\AutoMapperConfiguration.cs",
               "RelativeDocumentMoniker": "PetShelter\\AutoMapperConfiguration.cs",
@@ -315,7 +513,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 18,
+              "DocumentIndex": 30,
               "Title": "IBaseCrudService.cs",
               "DocumentMoniker": "D:\\alex11g\\projects\\PetShelter\\PetShelter.Shared\\Services\\Contracts\\IBaseCrudService.cs",
               "RelativeDocumentMoniker": "PetShelter.Shared\\Services\\Contracts\\IBaseCrudService.cs",
