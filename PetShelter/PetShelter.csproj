@@ -29,10 +29,10 @@
   </ItemGroup>
 
   <ItemGroup>
-    <Folder Include="Views\Auth\" />
-  </ItemGroup>
-
-  <ItemGroup>
+    <Content Update="Views\Auth\Login.cshtml">
+      <ExcludeFromSingleFile>true</ExcludeFromSingleFile>
+      <CopyToPublishDirectory>PreserveNewest</CopyToPublishDirectory>
+    </Content>
     <Content Update="Views\Breed\Edit.cshtml">
       <ExcludeFromSingleFile>true</ExcludeFromSingleFile>
       <CopyToPublishDirectory>PreserveNewest</CopyToPublishDirectory>
